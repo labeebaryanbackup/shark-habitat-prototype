@@ -1,0 +1,7 @@
+streamlit>=1.49,<2
+plotly>=6.3,<7
+pandas>=2.2,<3
+numpy>=1.26,<3
+scipy>=1.11,<2
+xarray>=2024.1,<2027
+requests>=2.32,<3
